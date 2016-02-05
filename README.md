@@ -32,7 +32,7 @@
 ## You win:
 * When you finish all the questions on time.
 
-# Next goals: 
+### Next goals: 
 * Improve the errors (because is to difficult to win)
 * Make random also the answers
 * Showing also the right answers 
