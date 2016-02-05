@@ -34,6 +34,7 @@
 
 ### Next goals: 
 * Improve the errors (because is to difficult to win)
+* Improve the media query because are to much.
 * Make random also the answers
 * Showing also the right answers 
 * To put a better style.
