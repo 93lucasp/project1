@@ -188,7 +188,7 @@ var data = {
 	{
 	  "question": "What is the capital of France?",
 	  "choices": ["Marseilles", "Lyon", "Paris", "Strasburg"],
-	  "correct": "Washington"
+	  "correct": "Paris"
 	}, 
 	
 	{
@@ -242,7 +242,7 @@ var data = {
 	{
 	  "question": "What is the capital of Chile?",
 	  "choices": ["Santiago del Chile", "San Antonio", "Lebu", "Valdivia"],
-	  "correct": "Washington"
+	  "correct": "Santiago del Chile"
 	}, 
 	
 	{
@@ -278,7 +278,7 @@ var data = {
 	{
 	  "question": "What is the capital of Chile?",
 	  "choices": ["Santiago del Chile", "San Antonio", "Lebu", "Valdivia"],
-	  "correct": "Washington"
+	  "correct": "Santiago del Chile"
 	}, 
 	
 	{
@@ -319,8 +319,8 @@ var data = {
 	
 	{
 	  "question": "What is the capital of Australia?",
-	  "choices": ["Perth", "Adelaide", "Sydney", "Brisbane"],
-	  "correct": "Sydney"
+	  "choices": ["Perth", "Adelaide", "Sydney", "Canberra"],
+	  "correct": "Canberra"
 	}, 
 	
 	{
