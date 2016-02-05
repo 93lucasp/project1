@@ -20,9 +20,9 @@
  #### CSS
 
 #### You can play:
-![alt tag](http://submariner-gloria-33414.bitballoon.com/)
+<http://submariner-gloria-33414.bitballoon.com/>
 #### You can find it on GitHub:
-![alt tag](https://github.com/93lucasp/project1)
+<https://github.com/93lucasp/project1>
 
 ### You can restart the game when you loose or whenever you want during the game!
 ### How the game works:
