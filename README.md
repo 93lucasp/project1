@@ -7,7 +7,7 @@
 
  * Quiz | Project1 is my first project and it is based on a quiz game but it is only with 3 categories. 
  
-### What is Travis CI good for?
+### What is this game good for?
  
  * Good for improving your knowledge about all the 3 categories.
   
